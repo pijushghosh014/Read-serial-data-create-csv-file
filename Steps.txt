@@ -1,0 +1,8 @@
+(Python code for reading incoming sensor data from serial port ‘com12’ at 9600 baud and store it in a CSV file.)
+
+The code is working properly.
+
+1. Upload .ino code to the Arduino Board which is connected with PC through Arduino IDE and identify the COM port.
+2. After successfully uploaded .ino code, open Python IDE and run the .py code.
+3. Stop the python program according to the user requirement.
+4. .csv file automatically saves in the folder where you save the python file earlier.
